@@ -3,3 +3,7 @@ def greeting
 end
 #!/usr/bin/env ruby -wKU
 greeting
+greeting
+greeting
+greeting
+greeting
